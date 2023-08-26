@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <h1 align="left">Hi, im TheRemekk and welcome to my profile! 🤲</h1>
 
 ###
