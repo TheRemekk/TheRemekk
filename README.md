@@ -67,7 +67,7 @@
   <a target="_blank" href="https://www.facebook.com/remik.janicki/">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
- <button class="tooltip"><span class="tooltiptext">theremekk</span><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/></button>
+  <div class="tooltip"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="Image 1" /><span class="tooltiptext">theremekk</span></div>
   <a target="_blank" href="https://www.instagram.com/theremekk/">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
