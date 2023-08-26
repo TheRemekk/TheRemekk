@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<link href="style.css" rel="stylesheet" type="text/css"/>   
 <h1 align="left">Hi, im TheRemekk and welcome to my profile! 🤲</h1>
 
 ###
