@@ -63,7 +63,8 @@
   <a target="_blank" href="https://www.facebook.com/remik.janicki/">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <div class="tooltip" style="position: relative;"><span class="tooltiptext">Discord name: theremekk</span><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/></div>
+  <button class="tooltip"> <span class="tooltiptext">theremekk</span><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme- 
+   generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/></button>
   <a target="_blank" href="https://www.instagram.com/theremekk/">
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
