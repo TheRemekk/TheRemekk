@@ -1,4 +1,8 @@
+<html>
+ <head>
 <link href="style.css" rel="stylesheet" type="text/css"/>   
+ </head>
+<body>
 <h1 align="left">Hi, im TheRemekk and welcome to my profile! 🤲</h1>
 
 ###
@@ -68,5 +72,7 @@
    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+</body>
+</html>
 
 ###
