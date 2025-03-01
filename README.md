@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ I'm studying at Poznan University of Technology.<br>📚 I'm currently learning Angular, TypeScript and Java.<br>🎯 I want to gain more knowledge about existing softwares and improve my code optimization.</p>
+<p align="left">✨ I'm studying at Poznan University of Technology.<br>📚 I'm focused on improving my TypeScript and Java skills.<br>🎯 I want to gain more knowledge about existing softwares and improve code analyzing.</p>
 
 ###
 
