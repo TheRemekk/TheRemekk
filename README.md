@@ -12,26 +12,33 @@
 
 ###
 
-<p align="left">✨ I'm studying at Poznan University of Technology.<br>📚 I'm focused on improving my TypeScript and Java skills.<br>🎯 I want to gain more knowledge about existing softwares and improve code analyzing.</p>
+<p align="left">
+  ✨ I'm studying at Poznan University of Technology.
+  <br>
+  📚 I'm passionate about coding in Java and currently learning Kotlin to improve my development skills. 
+  <br>
+  My preferred tech stack is Angular on the frontend and Java Spring on the backend, where I feel most confident as a full-stack developer.
+  <br>
+  🎯 I want to gain more knowledge about existing softwares and improve code analyzing.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages and frameworks I have the most experience with</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
@@ -66,13 +73,10 @@
 ###
 
 <div align="left">
-  <a target="_blank" href="https://www.facebook.com/remik.janicki/">
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"/>
+  <a target="_blank" href="https://www.linkedin.com/in/remigiuszjanicki/">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="facebook logo"/>
-  <a target="_blank" href="https://www.instagram.com/theremekk/">
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
 </div>
 </body>
 </html>
